@@ -26,7 +26,7 @@
             <h1 class="text-danger rounded">welcome <span class="text-success"> srinu chauhan
 
                 </span></h1>
-            <h2>this is an admin page</h2>
+            <h2>this is an admin</h2>
 
             <div class="row m">
 
